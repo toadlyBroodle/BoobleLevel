@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Booble Level</string>
+    <string name="menu_settings">Settings</string>
+    <string name="prefs_angles">Angles</string>
+    <string name="prefs_xhairs">Cross Hairs</string>
+    <string name="prefs_skins">Skins</string>
+
+    <string-array name="prefs_skins_array">
+        <item>Simple Susy</item>
+        <item>Ripped Regina</item>
+        <item>Sunny Sarah</item>
+        <item>Milf Maxine</item>
+        <!-- <item>Loose Lucy</item> -->
+    </string-array>
+    <string-array name="prefs_skins_array_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <!-- <item>4</item> -->
+    </string-array>
+
+    <string name="x_equals">x =</string>
+    <string name="y_equals">y =</string>
+    <string name="m_per_sec_2">m/s^2</string>
+    <string name="sell_skins_title">Get new skins!</string>
+    <string name="sell_skins_pitch">You don\'t currently own the selected skin. Would you like to unlock all the skins?</string>
+    <string name="buy_neg">Not Now...</string>
+    <string name="buy_pos">Yes!</string>
+    <string name="title_activity_sales_pitch">SalesPitchActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="neutral_button">OK</string>
+    <string name="purchase_thank_you">Thank you for your skins purchase!</string>
+
+</resources>

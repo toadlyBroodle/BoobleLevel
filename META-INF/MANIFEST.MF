@@ -1,0 +1,79 @@
+Manifest-Version: 1.0
+Built-By: 1.0.0
+Created-By: Android Gradle 1.0.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 42mUrx+EN6j4MqUiamaqq0T0lUk=
+
+Name: res/drawable-hdpi-v4/max_right_boob.png
+SHA1-Digest: T6Oy7wLe9lg2d1PajckGmWRRJeo=
+
+Name: res/drawable-hdpi-v4/max_body.png
+SHA1-Digest: NZufUiWovXHVWGeFO5ekMyAZK54=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: A85jC29451yr5bcNMhFEwn+aBEQ=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: qu7CeY1pOzjPFkOgqIPVPU1xa+g=
+
+Name: res/drawable-hdpi-v4/susy_boob.png
+SHA1-Digest: z8Y0XE3lVswweIu8VRnay+Hd8xE=
+
+Name: res/drawable-hdpi-v4/susy_body.png
+SHA1-Digest: Yq6R0uCfNDbJAX5iqoUtmaG5TOY=
+
+Name: res/drawable-hdpi-v4/barb_boob.png
+SHA1-Digest: ObhsHfHGPWWO3jRijM4vZzYGvW0=
+
+Name: res/drawable-hdpi-v4/barb_body.png
+SHA1-Digest: PFC1jwy69S90tiy3yXtrelBUDwU=
+
+Name: res/drawable-hdpi-v4/max_left_boob.png
+SHA1-Digest: TyFnZvmdLzjGGsoaVU+ZuqsXeAs=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: FjPTiP/QSU+HtkSOSEhnk/kAWvE=
+
+Name: res/drawable-hdpi-v4/brittany_boob_right.png
+SHA1-Digest: zMMw8h+sPwRp1KmU+q6asNxD0ys=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: mMZkwW2jxU3a1RDvEI9KzFXq/A8=
+
+Name: res/layout/view_salespitch.xml
+SHA1-Digest: NdIVwA0rPkCyLKqi35eW3XKSjcw=
+
+Name: res/layout/activity_booblelevel.xml
+SHA1-Digest: PTsYDLUOPjxYQN1I8ztL/C90sV8=
+
+Name: res/drawable-hdpi-v4/susy_boob_naked.png
+SHA1-Digest: B6CGpPAmJdko/4+ZyK9NHkcoloE=
+
+Name: res/drawable-ldpi-v4/wait.png
+SHA1-Digest: DeX/MmgEn4AElTTF9eHzdM4BtjA=
+
+Name: res/drawable-hdpi-v4/brittany_boob_left.png
+SHA1-Digest: 1PTnyRHCcmEFXqlgpQdXQy4vnPI=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: SWkomRGI+qlhVF/wWZse9wTA+XM=
+
+Name: res/drawable-hdpi-v4/susy_body_naked.png
+SHA1-Digest: MZAyTbhPGYVyOhPbiqCLfi8OlJw=
+
+Name: res/drawable-hdpi-v4/brittany_body.png
+SHA1-Digest: E4Y1+DcBwCtbUCcTw4lYYr/6VBo=
+
+Name: res/xml/prefs.xml
+SHA1-Digest: I324qYv8ONubJypAhRgTs9smMBk=
+
+Name: resources.arsc
+SHA1-Digest: mUcz3bMM8d5+LS+wWAVJHQ/uHDs=
+
+Name: res/drawable-xxhdpi-v4/bl_launcher_hd.png
+SHA1-Digest: q8+ysIMxZEwstR53GrzMLkAYUxM=
+
+Name: classes.dex
+SHA1-Digest: QBktKiTv6fugMTAs9hf9ZEwKaxM=
+
